@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nimbleEcology"]
+	path = nimbleEcology
+	url = https://github.com/nimble-dev/nimbleecology
+	shallow = true
+	registered = true
