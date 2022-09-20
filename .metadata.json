@@ -1,7 +1,7 @@
 [
   {
     "package": "compareMCMCs",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "nimbleEcology",
