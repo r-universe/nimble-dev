@@ -3,6 +3,12 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "compareMCMCs"]
+	path = compareMCMCs
+	url = https://github.com/nimble-dev/comparemcmcs
+	shallow = true
+	subdir = compareMCMCs
+	registered = true
 [submodule "nimbleEcology"]
 	path = nimbleEcology
 	url = https://github.com/nimble-dev/nimbleecology
