@@ -6,6 +6,14 @@
 	path = compareMCMCs
 	url = https://github.com/nimble-dev/comparemcmcs
 	subdir = compareMCMCs
+[submodule "nimble"]
+	path = nimble
+	url = https://github.com/nimble-dev/nimble
+	subdir = packages/nimble
 [submodule "nimbleEcology"]
 	path = nimbleEcology
 	url = https://github.com/nimble-dev/nimbleecology
+[submodule "nimbleSMC"]
+	path = nimbleSMC
+	url = https://github.com/nimble-dev/nimblesmc
+	subdir = packages/nimbleSMC
