@@ -13,6 +13,9 @@
 [submodule "nimbleEcology"]
 	path = nimbleEcology
 	url = https://github.com/nimble-dev/nimbleecology
+[submodule "nimbleMacros"]
+	path = nimbleMacros
+	url = https://github.com/nimble-dev/nimblemacros
 [submodule "nimbleSMC"]
 	path = nimbleSMC
 	url = https://github.com/nimble-dev/nimblesmc
